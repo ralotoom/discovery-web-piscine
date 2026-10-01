@@ -1,0 +1,40 @@
+dev_workspace:
+total 0
+drwxr-xr-x 5 ralotoom _amman 51 Oct  1 12:03 .
+drwxr-xr-x 3 ralotoom _amman 53 Oct  1 12:03 ..
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 archives
+drwxr-xr-x 3 ralotoom _amman 17 Oct  1 12:03 projects
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 tools
+
+dev_workspace/archives:
+total 0
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 .
+drwxr-xr-x 5 ralotoom _amman 51 Oct  1 12:03 ..
+
+dev_workspace/projects:
+total 0
+drwxr-xr-x 3 ralotoom _amman 17 Oct  1 12:03 .
+drwxr-xr-x 5 ralotoom _amman 51 Oct  1 12:03 ..
+drwxr-xr-x 4 ralotoom _amman 37 Oct  1 12:03 web
+
+dev_workspace/projects/web:
+total 0
+drwxr-xr-x 4 ralotoom _amman 37 Oct  1 12:03 .
+drwxr-xr-x 3 ralotoom _amman 17 Oct  1 12:03 ..
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 backend
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 frontend
+
+dev_workspace/projects/web/backend:
+total 0
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 .
+drwxr-xr-x 4 ralotoom _amman 37 Oct  1 12:03 ..
+
+dev_workspace/projects/web/frontend:
+total 0
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 .
+drwxr-xr-x 4 ralotoom _amman 37 Oct  1 12:03 ..
+
+dev_workspace/tools:
+total 0
+drwxr-xr-x 2 ralotoom _amman  6 Oct  1 12:03 .
+drwxr-xr-x 5 ralotoom _amman 51 Oct  1 12:03 ..

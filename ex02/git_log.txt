@@ -1,0 +1,5 @@
+commit f3372fb0a49d5cb4eaa0eddc9d31a86e75a8c239
+Author: rashed al otoom <rashedalotoom124@gmail.com>
+Date:   Thu Oct 1 12:03:09 2026 +0300
+
+    Initial commit with hello.txt
