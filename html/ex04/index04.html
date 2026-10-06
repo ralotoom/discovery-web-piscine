@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>42</title>    
+   
+</head>
+<body>
+
+    <form action="#" method="post">
+
+       
+        <label for="fullname">Full Name:</label>
+        <input type="text" id="fullname" name="fullname" value="Rashed alotoom" required minlength="3">
+        <br><br>
+
+     
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email" value="rashedalotoom124@gmail.com" required>
+        <br><br>
+
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required minlength="8">
+        <br><br>
+
+     
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="male" required>
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+        <br><br>
+
+   
+        <label for="track">Select Track:</label>
+        <select id="track" name="track" required>
+            <option value="">-- Choose an option --</option>
+            <option value="web">Web Development</option>
+            <option value="cyber">Cyber Security</option>
+        </select>
+        <br><br>
+
+     
+        <label for="bio">Bio:</label><br>
+        <textarea id="bio" name="bio" rows="4" cols="50" minlength="10" placeholder="Write something about yourself..."></textarea>
+        <br><br>
+
+       
+        <input type="checkbox" id="agree" name="agree" required>
+        <label for="agree">I agree to the terms and conditions</label>
+        <br><br>
+
+        <button type="submit">Register</button>
+
+    </form>
+
+</body>
+</html>
