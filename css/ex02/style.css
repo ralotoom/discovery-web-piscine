@@ -6,38 +6,28 @@ body {
     padding: 30px;
     background-color: #f4f4f4;
 }
-
-
 .square {
     width: 100PX;
     height: 100px;
     background-color: #3498db;
 }
-
-
 .rectangle {
     width: 150px;
     height: 80px;
     background-color: #e74c3c;
 }
-
-
 .circle {
     width: 100px;
     height: 100px;
     background-color: #2ecc71;
     border-radius: 50%;
 }
-
-
 .pill {
     width: 160px;
     height: 70px;
     background-color: #f1c40f;
     border-radius: 50px;
 }
-
-
 .triangle {
     width: 0;
     height: 0;
