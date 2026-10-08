@@ -3,18 +3,14 @@ body {
     padding: 30px;
     background-color: #f4f4f4;
 }
-
 h2 {
     margin-top: 20px;
 }
-
 .palette, .comparison-container {
     display: flex;
     gap: 20px;
     margin-bottom: 30px;
 }
-
-
 .swatch, .box {
     width: 180px;
     height: 100px;
@@ -26,33 +22,22 @@ h2 {
     border-radius: 6px;
     text-align: center;
 }
-
-
 .named {
     background-color: crimson;
 }
-
 .hex {
     background-color: #3498db;
 }
-
 .rgb {
     background-color: rgb(46, 204, 113); /
 }
-
 .rgba {
     background-color: rgba(155, 89, 182, 0.7); 
 }
-
-
-
-
 .opacity-box {
     background-color: #e74c3c;
     opacity: 0.5;
 }
-
-
 .rgba-box {
     background-color: rgba(231, 76, 60, 0.5);
     color: black;
