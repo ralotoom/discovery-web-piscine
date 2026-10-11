@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+.counter-container {
+    text-align: center;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+}
+#counter-value {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: black;
+}
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}

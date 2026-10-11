@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+.active {
+    color: #2ecc71;
+    font-weight: bold;
+}

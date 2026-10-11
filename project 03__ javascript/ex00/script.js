@@ -1,0 +1,10 @@
+const name = "Rashed ";
+let age = 25;
+let isCoding = true;
+console.log("Welcome " + name);
+age++;
+console.log("age : " + "25");
+console.log("New age: " + age);
+console.log("Type of name: " + typeof name);
+console.log("Type of age: " + typeof age);
+console.log("Type of isCoding: " + typeof isCoding);
